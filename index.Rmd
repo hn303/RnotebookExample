@@ -3,3 +3,4 @@ title: "RNotebook Example"
 ---
 
 Hello, Website!
+Welcome to the RNotebook Example!
